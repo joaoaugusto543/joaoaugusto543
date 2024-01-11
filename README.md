@@ -43,7 +43,7 @@ PostgreSQL ou Mongodb.
 <a href="mailto:joaoaugustoclopes@gmail.com">
   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
 </a>
-<a href="linkedin.com/in/joao-augusto-correia-lopes-6bb08b239">
+<a href="https://www.linkedin.com/in/joao-augusto-correia-lopes-6bb08b239/">
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 <a href="https://portfolio-joao-augusto.netlify.app/">
